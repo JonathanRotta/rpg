@@ -6,5 +6,6 @@ namespace RPG.Models
 {
     internal class Combate
     {
+        
     }
 }
